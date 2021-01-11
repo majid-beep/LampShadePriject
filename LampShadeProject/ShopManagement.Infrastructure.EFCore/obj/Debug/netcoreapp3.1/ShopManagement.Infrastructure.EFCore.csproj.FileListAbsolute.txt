@@ -1,0 +1,12 @@
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\ShopManagement.Infrastructure.EFCore.deps.json
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\ShopManagement.Infrastructure.EFCore.runtimeconfig.json
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\ShopManagement.Infrastructure.EFCore.runtimeconfig.dev.json
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\ShopManagement.Infrastructure.EFCore.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\ShopManagement.Infrastructure.EFCore.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\ShopManagement.Infrastructure.EFCore.csprojAssemblyReference.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\ShopManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\ShopManagement.Infrastructure.EFCore.AssemblyInfo.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\ShopManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\ShopManagement.Infrastructure.EFCore.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\ShopManagement.Infrastructure.EFCore.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\ShopManagement.Infrastructure.EFCore.genruntimeconfig.cache
