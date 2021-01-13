@@ -1524,6 +1524,9 @@
       "0_FrameWork/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.1"
+        },
         "compile": {
           "bin/placeholder/0_FrameWork.dll": {}
         },
