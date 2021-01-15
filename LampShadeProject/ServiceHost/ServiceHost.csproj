@@ -99,9 +99,6 @@
     <None Include="wwwroot\AdminTheme\assets\font-awesome\scss\_spinning.scss" />
     <None Include="wwwroot\AdminTheme\assets\font-awesome\scss\_stacked.scss" />
     <None Include="wwwroot\AdminTheme\assets\font-awesome\scss\_variables.scss" />
-    <None Include="wwwroot\AdminTheme\assets\fonts\glyphicons-halflings-regular.svg" />
-    <None Include="wwwroot\AdminTheme\assets\fonts\glyphicons-halflings-regular.woff2" />
-    <None Include="wwwroot\AdminTheme\assets\fonts\Material-Design-Iconic-Font.svg" />
     <None Include="wwwroot\AdminTheme\assets\form-wizard\bootstrap-validator.min.js" />
     <None Include="wwwroot\AdminTheme\assets\form-wizard\jquery.steps.min.js" />
     <None Include="wwwroot\AdminTheme\assets\form-wizard\wizard-init.js" />
@@ -180,6 +177,11 @@
     <None Include="wwwroot\AdminTheme\assets\timepicker\bootstrap-datepicker.js" />
     <None Include="wwwroot\AdminTheme\assets\timepicker\bootstrap-timepicker.min.js" />
     <None Include="wwwroot\AdminTheme\assets\toggles\toggles.min.js" />
+    <None Include="wwwroot\fonts\glyphicons-halflings-regular.svg" />
+    <None Include="wwwroot\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="wwwroot\fonts\IranianSans.svg" />
+    <None Include="wwwroot\fonts\IranianSans.woff2" />
+    <None Include="wwwroot\fonts\Material-Design-Iconic-Font.svg" />
   </ItemGroup>
 
 </Project>
