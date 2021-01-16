@@ -4,6 +4,7 @@ using ShopManagement.Application.Contracts.Product;
 using ShopManagement.Domain.ProductAgg;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 
@@ -49,7 +50,9 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 Code =x.Code,
                 Picture=x.Picture,
                 UnitPrice=x.UnitPrice,
-                
+                IsInStock=x.IsInStock,
+                CreationDate=x.CreationDate.ToString(CultureInfo.InvariantCulture)
+
             });
 
             if (!string.IsNullOrWhiteSpace(searchModel.Name))

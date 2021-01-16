@@ -18,6 +18,8 @@ namespace ShopManagement.Domain.ProductCategoryAgg
         public string Slug { get; private set; }
         public List<Product>Products { get; private set; }
 
+
+
         public ProductCategory()
         {
             Products = new List<Product>();
@@ -33,6 +35,7 @@ namespace ShopManagement.Domain.ProductCategoryAgg
             Keywords = keywords;
             MetaDescription = metaDescription;
             Slug = slug;
+           
         }
         public void Edit(string name, string description, string picture, string pictureAlt, string pictureTitle, string keywords, string metaDescription, string slug)
         {
