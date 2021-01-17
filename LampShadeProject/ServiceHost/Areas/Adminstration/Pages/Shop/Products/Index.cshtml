@@ -96,17 +96,17 @@
                                     </td>
                                     <td>@item.CreationDate</td>
                                     <td>
-                                        <a class="btn btn-outline-warning btn-custom waves-effect waves-light m-b-5"
+                                        <a class="btn btn-warning btn-custom waves-effect waves-light m-b-5"
                                            href="#showmodal=@Url.Page("./Index", "Edit", new { id = item.Id})">
                                             <i class="fa fa-edit"></i> ویرایش
                                         </a>
                                         @if (item.IsInStock)
                                         {
-                                            <a asp-page="./Index" asp-page-handler="NotInStock" asp-route-id="@item.Id" class="btn btn-outline-danger btn-custom waves-effect waves-light m-b-5">لغو موجودی</a>
+                                            <a asp-page="./Index" asp-page-handler="NotInStock" asp-route-id="@item.Id" class="btn btn-danger btn-custom waves-effect waves-light m-b-5">لغو موجودی</a>
                                         }
                                         else
                                         {
-                                            <a asp-page="./Index" asp-page-handler="IsInStock" asp-route-id="@item.Id" class="btn btn-outline-success btn-custom waves-effect waves-light m-b-5">ایجاد موجودی</a>
+                                            <a asp-page="./Index" asp-page-handler="IsInStock" asp-route-id="@item.Id" class="btn btn-success btn-custom waves-effect waves-light m-b-5">ایجاد موجودی</a>
                                         }
 
                                     </td>

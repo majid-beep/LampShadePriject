@@ -153,6 +153,9 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHos
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Shop\ProductCategories\Create.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Shop\ProductCategories\Edit.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Shop\ProductCategories\Index.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Shop\ProductPictures\Create.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Shop\ProductPictures\Edit.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Shop\ProductPictures\Index.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Shop\Products\Create.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Shop\Products\Edit.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Shop\Products\Index.cshtml.g.cs

@@ -1,0 +1,6 @@
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost1.AssemblyInfoInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost1.AssemblyInfo.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost1.csproj.CoreCompileInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost1.MvcApplicationPartsAssemblyInfo.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost1.RazorAssemblyInfo.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost1.RazorAssemblyInfo.cs
