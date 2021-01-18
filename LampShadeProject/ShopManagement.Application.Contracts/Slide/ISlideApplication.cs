@@ -1,10 +1,19 @@
-﻿using System;
+﻿using _0_FrameWork.Application;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace ShopManagement.Application.Contracts.Slide
 {
-    class ISlideApplication
+    public interface ISlideApplication
     {
+        OperationResult Create(CreateSlide command);
+        OperationResult Edit(EditSlide command);
+        OperationResult Remove(long id);
+        OperationResult Restore(long id);
+        EditSlide GetDetails(long id);
+        List<SlideViewModel> GetList();
+
+
     }
 }

@@ -175,3 +175,7 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHos
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.genruntimeconfig.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Shared\_Menu.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Shop\Slides\Create.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Shop\Slides\Edit.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Shop\Slides\Index.cshtml.g.cs
