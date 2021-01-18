@@ -3,11 +3,13 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManage
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Configuration.runtimeconfig.dev.json
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Configuration.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Configuration.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\01_LampshadeQuery.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\0_FrameWork.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Application.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Domain.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Infrastructure.EFCore.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\01_LampshadeQuery.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Application.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Domain.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Infrastructure.EFCore.pdb
