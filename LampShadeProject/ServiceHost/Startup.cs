@@ -1,3 +1,4 @@
+using DiscountManagement.Configuration;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -24,10 +25,17 @@ namespace ServiceHost
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            ShopManagementBootstrapper.Configure(services, Configuration.GetConnectionString("LampshadeDB"));
+            var connectionString = Configuration.GetConnectionString("LampshadeDB");
+            ShopManagementBootstrapper.Configure(services, connectionString);
+            DiscountManagementBootstrapper.Configure(services, connectionString);
 
-            //var connectionString = Configuration.GetConnectionString("Lampshade");
-            //ShopManagementBootstrapper.Configure(services, "Lampshade");
+
+            //ShopManagementBootstrapper.Configure(services, Configuration.GetConnectionString("LampshadeDB"));
+            //DiscountManagementBootstrapper.Configure(services, Configuration.GetConnectionString("LampshadeDB"));
+
+
+            ////var connectionString = Configuration.GetConnectionString("Lampshade");
+            ////ShopManagementBootstrapper.Configure(services, "Lampshade");
             services.AddRazorPages();
         }
 

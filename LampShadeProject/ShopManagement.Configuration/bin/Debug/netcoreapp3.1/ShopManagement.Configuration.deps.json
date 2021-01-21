@@ -10,7 +10,6 @@
         "dependencies": {
           "01_LampshadeQuery": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.1",
-          "Microsoft.EntityFrameworkCore.Design": "5.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.1",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0",
@@ -1132,6 +1131,7 @@
       },
       "ShopManagement.Infrastructure.EFCore/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.1",
           "ShopManagement.Domain": "1.0.0"
         },

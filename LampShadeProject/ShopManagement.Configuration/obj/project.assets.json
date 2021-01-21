@@ -1592,6 +1592,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.1",
           "ShopManagement.Domain": "1.0.0"
         },
@@ -5905,7 +5906,6 @@
     ".NETCoreApp,Version=v3.1": [
       "01_LampshadeQuery >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.1",
-      "Microsoft.EntityFrameworkCore.Design >= 5.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.1",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.1",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 5.0.0",
@@ -5967,12 +5967,6 @@
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[5.0.1, )"
-          },
-          "Microsoft.EntityFrameworkCore.Design": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
             "target": "Package",
             "version": "[5.0.1, )"
           },
