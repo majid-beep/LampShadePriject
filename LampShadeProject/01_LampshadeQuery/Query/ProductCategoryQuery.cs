@@ -20,7 +20,7 @@ namespace _01_LampshadeQuery.Query
         {
             return _context.ProductCategories.Select(x => new ProductCategoryQueryModel
             {
-                Id = x.Id,
+                Id = x.operationId,
                 Name = x.Name,
                 Picture = x.Picture,
                 PictureAlt = x.PictureAlt,

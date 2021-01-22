@@ -33,7 +33,7 @@ namespace ShopManagement.Application
             var productPicture = _productPictureRepository.Get(command.Id);
             if (productPicture == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
-            if (_productPictureRepository.Exists(x => x.Picture == command.Picture && x.ProductId == command.ProductId && x.Id != command.Id))
+            if (_productPictureRepository.Exists(x => x.Picture == command.Picture && x.ProductId == command.ProductId && x.operationId != command.Id))
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
             productPicture.Edit(command.ProductId, command.Picture, command.PictureAlt, command.PictureTitle);
             _productPictureRepository.SaveChanges();

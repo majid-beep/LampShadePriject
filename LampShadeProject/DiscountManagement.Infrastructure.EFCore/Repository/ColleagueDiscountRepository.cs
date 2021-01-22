@@ -26,7 +26,7 @@ namespace DiscountManagement.Infrastructure.EFCore.Repository
         {
             return _context.ColleagueDiscounts.Select(x => new EditColleagueDiscount
             {
-                Id=x.Id,
+                Id=x.operationId,
                 DiscountRate=x.DiscountRate,
                 ProductId=x.ProductId
                                 
@@ -35,13 +35,14 @@ namespace DiscountManagement.Infrastructure.EFCore.Repository
 
         public List<ColleagueDiscountViewModel> Search(ColleagueDiscountSearchModel searchModel)
         { 
-            var products = _shopContext.Products.Select(x => new { x.Id, x.Name }).ToList();
+            var products = _shopContext.Products.Select(x => new { x.operationId, x.Name }).ToList();
             var query = _context.ColleagueDiscounts.Select(x => new ColleagueDiscountViewModel
             {
-                Id = x.Id,
+                Id = x.operationId,
                 CreationDate = x.CreationDate.ToFarsi(),
                 DiscountRate=x.DiscountRate,
-                ProductId=x.ProductId 
+                ProductId=x.ProductId,
+                IsRemoved=x.IsRemoved
             });
             if (searchModel.ProductId > 0)
                 query = query.Where(x => x.ProductId == searchModel.ProductId);

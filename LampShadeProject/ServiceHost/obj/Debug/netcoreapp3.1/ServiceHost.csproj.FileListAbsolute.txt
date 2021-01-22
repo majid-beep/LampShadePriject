@@ -196,3 +196,6 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHos
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Discounts\CustomerDiscounts\Create.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Discounts\CustomerDiscounts\Edit.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Discounts\CustomerDiscounts\Index.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Discounts\ColleagueDiscounts\Create.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Discounts\ColleagueDiscounts\Edit.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Discounts\ColleagueDiscounts\Index.cshtml.g.cs
