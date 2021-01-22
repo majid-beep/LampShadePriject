@@ -25,7 +25,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
         {
             return _context.ProductCategories.Select(x => new EditProductacategory()
             {
-                Id = x.operationId,
+                Id = x.Id,
                 Name = x.Name,
                 Description = x.Description,
                 Keywords = x.Keywords,
@@ -42,7 +42,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
         {
             return _context.ProductCategories.Select(x => new ProductCategoryViewModel
             {
-                Id=x.operationId,
+                Id=x.Id,
                 Name=x.Name 
 
             }).ToList();
@@ -52,7 +52,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
         {
             var query = _context.ProductCategories.Select(x => new ProductCategoryViewModel
             {
-                Id=x.operationId,
+                Id=x.Id,
                 Picture=x.Picture,
                 Name=x.Name,
                 CreationDate=x.CreationDate.ToFarsi()

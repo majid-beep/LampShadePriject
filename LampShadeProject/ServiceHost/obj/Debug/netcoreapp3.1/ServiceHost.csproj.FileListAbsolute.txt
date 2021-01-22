@@ -199,3 +199,11 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHos
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Discounts\ColleagueDiscounts\Create.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Discounts\ColleagueDiscounts\Edit.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Discounts\ColleagueDiscounts\Index.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.EFCore.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.EFCore.pdb

@@ -24,7 +24,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
         {
             return _context.Products.Select(x => new EditProduct
             {
-                Id=x.operationId,
+                Id=x.Id,
                 Name=x.Name,
                 Code=x.Code,
                 Slug=x.Slug,
@@ -44,7 +44,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
         {
             return _context.Products.Select(x => new ProductViewModel
             {
-                Id = x.operationId,
+                Id = x.Id,
                 Name = x.Name
             }).ToList();
         }
@@ -53,7 +53,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
         {
             var query = _context.Products.Include(x => x.Category).Select(x => new ProductViewModel
             {
-                Id=x.operationId,
+                Id=x.Id,
                 Name=x.Name,
                 Category = x.Category.Name,
                 CategoryId=x.CategoryId,

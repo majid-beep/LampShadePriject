@@ -12,7 +12,7 @@ namespace ShopManagement.Infrastructure.EFCore.Mapping
         public void Configure(EntityTypeBuilder<Slide> builder)
         {
             builder.ToTable("Slides");
-            builder.HasKey(x => x.operationId);
+            builder.HasKey(x => x.Id);
             builder.Property(x => x.Picture).HasMaxLength(1000).IsRequired();
             builder.Property(x => x.PictureAlt).HasMaxLength(500).IsRequired();
             builder.Property(x => x.PictureTitle).HasMaxLength(500).IsRequired();

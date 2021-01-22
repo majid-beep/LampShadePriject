@@ -1,0 +1,14 @@
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.deps.json
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\0_FrameWork.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\0_FrameWork.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csprojAssemblyReference.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfoInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfo.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.CopyComplete
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb

@@ -23,7 +23,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
         {
             return _context.ProductPictures.Select(x => new EditProductPicture
             {
-                Id=x.operationId,
+                Id=x.Id,
                 Picture=x.Picture,
                 PictureAlt=x.PictureAlt,
                 PictureTitle=x.PictureTitle,
@@ -36,7 +36,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
         {
             var query = _context.ProductPictures.Include(x => x.Product).Select(x => new ProductPictureViewModel
             {
-                Id = x.operationId,
+                Id = x.Id,
                 Product = x.Product.Name,
                 CreationDate=x.CreationDate.ToFarsi(),
                 Picture = x.Picture,

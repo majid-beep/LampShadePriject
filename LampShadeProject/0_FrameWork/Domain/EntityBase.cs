@@ -6,7 +6,7 @@ namespace _0_FrameWork.Domain
 {
     public class EntityBase
     {
-        public long operationId { get; private set; }
+        public long Id { get; private set; }
         public DateTime CreationDate { get; private set; }
 
         public EntityBase()

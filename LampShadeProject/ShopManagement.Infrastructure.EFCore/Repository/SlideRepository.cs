@@ -22,7 +22,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
         {
             return _context.Slides.Select(x => new EditSlide
             {
-                Id=x.operationId,
+                Id=x.Id,
                 BtnText=x.BtnText,
                 Heading=x.Heading,
                 Picture=x.Picture,
@@ -39,7 +39,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
         {
             return _context.Slides.Select(x => new SlideViewModel
             {
-                Id=x.operationId,
+                Id=x.Id,
                 Heading=x.Heading,
                 Picture=x.Picture,
                 Title=x.Heading,
