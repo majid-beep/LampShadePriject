@@ -5,7 +5,7 @@ using System.Text;
 
 namespace InventoryManagement.Application.Contract.Inventory
 {
-   public interface IInventoryApplication
+    public interface IInventoryApplication
     {
         OperationResult Create(CreateInventory command);
         OperationResult Edit(EditInventory command);
@@ -14,5 +14,6 @@ namespace InventoryManagement.Application.Contract.Inventory
         OperationResult Reduce(ReduceInventory command);
         EditInventory GetDetails(long id);
         List<InventoryViewModel> Search(InventorySearchModel searchModel);
+        List<InventoryOperationViewModel> GetOperationLog(long inventoryId);
     }
 }

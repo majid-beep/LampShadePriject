@@ -9,6 +9,12 @@ namespace InventoryManagement.Application
     public class InventoryApplication : IInventoryApplication
     {
         private readonly IInventoryRepository _inventoryRepository;
+
+        public InventoryApplication(IInventoryRepository inventoryRepository)
+        {
+            _inventoryRepository = inventoryRepository;
+        }
+
         public OperationResult Create(CreateInventory command)
         {
             var operation = new OperationResult();
@@ -40,6 +46,11 @@ namespace InventoryManagement.Application
 
         }
 
+        public List<InventoryOperationViewModel> GetOperationLog(long inventoryId)
+        {
+            return _inventoryRepository.GetOperationLog(inventoryId);
+        }
+
         public OperationResult Increase(IncreaseInventory command)
         {
             var operation = new OperationResult();
@@ -60,7 +71,7 @@ namespace InventoryManagement.Application
             foreach(var item in command)
             {
                 var inventory = _inventoryRepository.GetBy(item.ProductId);
-                inventory.Reduce(item.Count,OperatorId,item.Description,item.OrderId)
+                inventory.Reduce(item.Count, OperatorId, item.Description, item.OrderId);
             }
             _inventoryRepository.SaveChanges();
             return operation.Succeeded();
@@ -70,7 +81,7 @@ namespace InventoryManagement.Application
         public OperationResult Reduce(ReduceInventory command)
         {
             var operation = new OperationResult();
-            var inventory = _inventoryRepository.Get(command.InvenoryId);
+            var inventory = _inventoryRepository.Get(command.InventoryId);
             if (inventory == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
             const long OperatorId = 1;

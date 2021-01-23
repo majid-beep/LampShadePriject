@@ -90,6 +90,9 @@
             "projectReferences": {
               "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\Project\\MyFinalProject\\LampShadeProject\\0_FrameWork\\0_FrameWork.csproj": {
                 "projectPath": "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\Project\\MyFinalProject\\LampShadeProject\\0_FrameWork\\0_FrameWork.csproj"
+              },
+              "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\Project\\MyFinalProject\\LampShadeProject\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\Project\\MyFinalProject\\LampShadeProject\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }

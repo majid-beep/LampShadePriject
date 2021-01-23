@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace InventoryManagement.Infrastructure.EFCore.Migrations
 {
     [DbContext(typeof(InventoryContext))]
-    [Migration("20210122134032_inventoryadded")]
-    partial class inventoryadded
+    [Migration("20210123064803_inventoryandinventoryoperations")]
+    partial class inventoryandinventoryoperations
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
