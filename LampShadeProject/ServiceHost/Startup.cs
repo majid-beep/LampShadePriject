@@ -1,3 +1,4 @@
+using _0_FrameWork.Application;
 using DiscountManagement.Configuration;
 using InventoryManagement.Infrastructure.Configuration;
 using Microsoft.AspNetCore.Builder;
@@ -31,6 +32,7 @@ namespace ServiceHost
             DiscountManagementBootstrapper.Configure(services, connectionString);
             InventoryManagementBootstrapper.Configure(services, connectionString);
 
+            services.AddTransient<IFileUploader, FileUploader>();
 
             //ShopManagementBootstrapper.Configure(services, Configuration.GetConnectionString("LampshadeDB"));
             //DiscountManagementBootstrapper.Configure(services, Configuration.GetConnectionString("LampshadeDB"));

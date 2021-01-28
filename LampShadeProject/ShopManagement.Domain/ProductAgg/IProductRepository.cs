@@ -8,6 +8,7 @@ namespace ShopManagement.Domain.ProductAgg
 {
     public interface IProductRepository:IRepository<long, Product>
     {
+        Product GetProductWithCategory(long id);
         EditProduct GetDetails(long id);
         List<ProductViewModel> GetProducts();
         List<ProductViewModel> Search(ProductSearchModel serachModel);

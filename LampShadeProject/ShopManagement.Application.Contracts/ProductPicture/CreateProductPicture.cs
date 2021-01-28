@@ -1,5 +1,6 @@
 ﻿
 using _0_FrameWork.Application;
+using Microsoft.AspNetCore.Http;
 using ShopManagement.Application.Contracts.Product;
 using System;
 using System.Collections.Generic;
@@ -12,8 +13,9 @@ namespace ShopManagement.Application.Contracts.ProductPicture
     {
         [Range(1,100000,ErrorMessage=ValidationMessages.IsRequired)]
         public long ProductId { get;  set; }
-        [Required(ErrorMessage=ValidationMessages.IsRequired)]
-        public string Picture { get;  set; }
+      
+        [MaxFileSize(3 * 1024 * 1024, ErrorMessage = ValidationMessages.MaxFileSize)]
+        public IFormFile Picture { get;  set; }
         [Required(ErrorMessage = ValidationMessages.IsRequired)]
         public string PictureAlt { get;  set; }
         [Required(ErrorMessage = ValidationMessages.IsRequired)]

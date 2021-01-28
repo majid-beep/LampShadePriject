@@ -1,3 +1,4 @@
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\appsettings.json
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\ServiceHost.exe
@@ -9,6 +10,7 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHos
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\ServiceHost.Views.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\ServiceHost.Views.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
@@ -56,7 +58,7 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHos
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
@@ -160,6 +162,7 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHos
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.AssemblyInfoInputs.cache
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.AssemblyInfo.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.csproj.CoreCompileInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.MvcApplicationPartsAssemblyInfo.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.MvcApplicationPartsAssemblyInfo.cache
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.RazorAssemblyInfo.cache
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.RazorAssemblyInfo.cs
@@ -178,7 +181,10 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHos
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Index.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Inventory\Create.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Inventory\Edit.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Inventory\Increase.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Inventory\Index.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Inventory\OperationLog.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Inventory\Reduce.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Shared\_AdminLayout.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Shared\_Menu.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -199,6 +205,9 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHos
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Pages\ProductCategory.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Components\LatestArrivals\Default.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Components\ProductCategoryWithProduct\Default.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Components\ProductCategory\Default.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Components\Slide\Default.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
@@ -212,6 +221,3 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHos
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.genruntimeconfig.cache
-E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Inventory\Increase.cshtml.g.cs
-E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Inventory\Reduce.cshtml.g.cs
-E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ServiceHost\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstration\Pages\Inventory\OperationLog.cshtml.g.cs

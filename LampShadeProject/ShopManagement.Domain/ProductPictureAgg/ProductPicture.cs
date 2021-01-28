@@ -1,16 +1,23 @@
-﻿using _0_FrameWork.Domain;
+﻿using _0_FrameWork.Application;
+using _0_FrameWork.Domain;
+using Microsoft.AspNetCore.Http;
 using ShopManagement.Domain.ProductAgg;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace ShopManagement.Domain.ProductPictureAgg
 {
    public class ProductPicture:EntityBase
     {
+        
         public long ProductId { get; private set; }
+       
         public string Picture { get; private set; }
+       
         public string PictureAlt { get; private set; }
+        
         public string PictureTitle { get; private set; }
         public bool IsRemoved { get; private set; }
         public Product Product { get; private set; }
@@ -30,7 +37,8 @@ namespace ShopManagement.Domain.ProductPictureAgg
         public void Edit(long productId, string picture, string pictureAlt, string pictureTitle)
         {
             ProductId = productId;
-            Picture = picture;
+            if(!string.IsNullOrWhiteSpace(picture))
+                Picture = picture;
             PictureAlt = pictureAlt;
             PictureTitle = pictureTitle;
         }

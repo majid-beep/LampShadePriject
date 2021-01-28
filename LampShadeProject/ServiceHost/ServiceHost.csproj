@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Content Remove="Areas\Adminstration\Index.cshtml" />
+    <Content Remove="Pages\Product.cshtml" />
     <Content Remove="wwwroot\Theme\assets\fonts\IranianSans.svg" />
     <Content Remove="wwwroot\Theme\assets\fonts\IranianSans.woff2" />
   </ItemGroup>
@@ -24,10 +25,16 @@
 
   <ItemGroup>
     <_ContentIncludedByDefault Remove="Areas\Adminstration\Index.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\Product.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="Areas\Adminstration\Pages\Index.cshtml" />
+    <None Include="Pages\Product.cshtml" />
+    <None Include="Pages\Shared\Components\LatestArrivals\Default.cshtml" />
+    <None Include="Pages\Shared\Components\ProductCategoryWithProduct\Default.cshtml" />
+    <None Include="Pages\Shared\Components\ProductCategory\Default.cshtml" />
+    <None Include="Pages\Shared\Components\Slide\Default.cshtml" />
     <None Include="wwwroot\AdminTheme\assets\bootstrap-inputmask\bootstrap-inputmask.min.js" />
     <None Include="wwwroot\AdminTheme\assets\bootstrap-wysihtml5\bootstrap-wysihtml5.js" />
     <None Include="wwwroot\AdminTheme\assets\bootstrap-wysihtml5\wysihtml5-0.3.0.js" />
@@ -188,6 +195,10 @@
     <None Include="wwwroot\Theme\assets\js\active.js" />
     <None Include="wwwroot\Theme\assets\js\ajax-mail.js" />
     <None Include="wwwroot\Theme\assets\js\vendors.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\Product.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
