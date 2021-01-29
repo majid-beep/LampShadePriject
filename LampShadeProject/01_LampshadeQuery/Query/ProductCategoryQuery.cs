@@ -35,7 +35,7 @@ namespace _01_LampshadeQuery.Query
                 PictureAlt = x.PictureAlt,
                 PictureTitle = x.PictureTitle,
                 Slug = x.Slug
-            }).ToList();
+            }).AsNoTracking().ToList();
         }
 
         public List<ProductCategoryQueryModel> GetProductCategoriesWithProducts()
@@ -56,7 +56,7 @@ namespace _01_LampshadeQuery.Query
                     Products = MapProducts(x.Products)
 
 
-                }).ToList();
+                }).AsNoTracking().ToList();
 
             foreach (var category in categories)
             {
@@ -73,6 +73,7 @@ namespace _01_LampshadeQuery.Query
                         {
                             int discountRate = discount.DiscountRate;
                             product.DiscountRate = discountRate;
+                            product.HasDiscount = discountRate > 0;
                             var discountAmount = Math.Round((price * discountRate) / 100);
                             product.PriceWithDiscount = (price - discountAmount).ToMoney();
                         }
@@ -126,7 +127,7 @@ namespace _01_LampshadeQuery.Query
                     Products = MapProducts(x.Products)
 
 
-                }).FirstOrDefault(x => x.Slug == slug);
+                }).AsNoTracking().FirstOrDefault(x => x.Slug == slug);
 
 
             foreach (var product in category.Products)
@@ -142,7 +143,8 @@ namespace _01_LampshadeQuery.Query
                     {
                         int discountRate = discount.DiscountRate;
                         product.DiscountRate = discountRate;
-                        product.DiscountExpireDate = discount.EndDate.ToFarsi();
+                        product.DiscountExpireDate = discount.EndDate.ToDiscountFormat();
+                        product.HasDiscount = discountRate > 0;
                         var discountAmount = Math.Round((price * discountRate) / 100);
                         product.PriceWithDiscount = (price - discountAmount).ToMoney();
                     }
