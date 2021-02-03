@@ -126,8 +126,7 @@ namespace _01_LampshadeQuery.Query
                     Slug = x.Slug,
                     Products = MapProducts(x.Products)
 
-
-                }).AsNoTracking().FirstOrDefault(x => x.Slug == slug);
+                }).FirstOrDefault(x => x.Slug == slug);
 
 
             foreach (var product in category.Products)

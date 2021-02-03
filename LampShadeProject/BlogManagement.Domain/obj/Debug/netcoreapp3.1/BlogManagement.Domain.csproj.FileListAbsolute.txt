@@ -1,0 +1,14 @@
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Domain\bin\Debug\netcoreapp3.1\BlogManagement.Domain.deps.json
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Domain\bin\Debug\netcoreapp3.1\BlogManagement.Domain.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Domain\bin\Debug\netcoreapp3.1\BlogManagement.Domain.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Domain\bin\Debug\netcoreapp3.1\0_FrameWork.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Domain\bin\Debug\netcoreapp3.1\BlogManagement.Application.Contracts.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Domain\bin\Debug\netcoreapp3.1\0_FrameWork.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Domain\bin\Debug\netcoreapp3.1\BlogManagement.Application.Contracts.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Domain\obj\Debug\netcoreapp3.1\BlogManagement.Domain.csprojAssemblyReference.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Domain\obj\Debug\netcoreapp3.1\BlogManagement.Domain.AssemblyInfoInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Domain\obj\Debug\netcoreapp3.1\BlogManagement.Domain.AssemblyInfo.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Domain\obj\Debug\netcoreapp3.1\BlogManagement.Domain.csproj.CoreCompileInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Domain\obj\Debug\netcoreapp3.1\BlogManagement.Domain.csproj.CopyComplete
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Domain\obj\Debug\netcoreapp3.1\BlogManagement.Domain.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Domain\obj\Debug\netcoreapp3.1\BlogManagement.Domain.pdb

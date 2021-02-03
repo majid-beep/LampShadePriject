@@ -28,7 +28,7 @@ namespace ShopManagement.Application
             //if (_productPictureRepository.Exists(x => x.Picture == command.Picture && x.ProductId == command.ProductId))
             //    return operation.Failed(ApplicationMessages.DuplicatedRecord);
             var product = _productRepository.GetProductWithCategory(command.ProductId);
-            var path = $"{product.Category.Slug}/{product.Slug}";
+            var path = $"{product.Category.Slug}//{product.Slug}";
             var picturePath = _fileUploader.Upload(command.Picture, path);
             var productPicture = new ProductPicture(command.ProductId, picturePath, command.PictureAlt, 
                 command.PictureTitle);
@@ -47,7 +47,7 @@ namespace ShopManagement.Application
             //    return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
             
-            var path = $"{productPicture.Product.Category.Slug}/{productPicture.Product.Slug}";
+            var path = $"{productPicture.Product.Category.Slug}//{productPicture.Product.Slug}";
             var picturePath = _fileUploader.Upload(command.Picture, path);
 
             productPicture.Edit(command.ProductId, picturePath, command.PictureAlt, command.PictureTitle);

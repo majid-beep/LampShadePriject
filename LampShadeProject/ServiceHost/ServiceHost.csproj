@@ -1,15 +1,25 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
-  <PropertyGroup>
+	<!--<Project Sdk="Microsoft.NET.Sdk.Web">
+
+		<PropertyGroup>
+			-    <TargetFramework>netcoreapp3.1</TargetFramework>
+			+    <TargetFramework>net5.0</TargetFramework>
+		</PropertyGroup>
+
+	</Project>-->
+	
+
+	<PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
+  <!--<ItemGroup>
     <Content Remove="Areas\Adminstration\Index.cshtml" />
     <Content Remove="Pages\Product.cshtml" />
     <Content Remove="wwwroot\Theme\assets\fonts\IranianSans.svg" />
     <Content Remove="wwwroot\Theme\assets\fonts\IranianSans.woff2" />
-  </ItemGroup>
+  </ItemGroup>-->
 
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.1">
@@ -17,16 +27,29 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+
+
   </ItemGroup>
 
-  <ItemGroup>
+	<!--<ItemGroup>
+
+		<PackageReference Include="Microsoft.AspNetCore.App"/>
+		<PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+		
+	</ItemGroup>-->
+	
+	
+	
+	
+
+  <!--<ItemGroup>
     <UpToDateCheckInput Remove="Areas\Adminstration\Index.cshtml" />
-  </ItemGroup>
+  </ItemGroup>-->
 
-  <ItemGroup>
+  <!--<ItemGroup>
     <_ContentIncludedByDefault Remove="Areas\Adminstration\Index.cshtml" />
     <_ContentIncludedByDefault Remove="Pages\Product.cshtml" />
-  </ItemGroup>
+  </ItemGroup>-->
 
   <ItemGroup>
     <None Include="Areas\Adminstration\Pages\Index.cshtml" />
@@ -198,13 +221,16 @@
   </ItemGroup>
 
   <ItemGroup>
-    <UpToDateCheckInput Remove="Pages\Product.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\BlogManagement.Infrastructure.Configuration\BlogManagement.Infrastructure.Configuration.csproj" />
     <ProjectReference Include="..\DiscountManagement.Configuration\DiscountManagement.Configuration.csproj" />
     <ProjectReference Include="..\InventoryManagement.Infrastructure.Configuration\InventoryManagement.Infrastructure.Configuration.csproj" />
     <ProjectReference Include="..\ShopManagement.Configuration\ShopManagement.Configuration.csproj" />
   </ItemGroup>
+
+	
+
+  <!--<ItemGroup>
+    <UpToDateCheckInput Remove="Pages\Product.cshtml" />
+  </ItemGroup>-->
 
 </Project>

@@ -1,0 +1,12 @@
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application.Contracts\bin\Debug\netcoreapp3.1\BlogManagement.Application.Contracts.deps.json
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application.Contracts\bin\Debug\netcoreapp3.1\BlogManagement.Application.Contracts.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application.Contracts\bin\Debug\netcoreapp3.1\BlogManagement.Application.Contracts.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application.Contracts\bin\Debug\netcoreapp3.1\0_FrameWork.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application.Contracts\bin\Debug\netcoreapp3.1\0_FrameWork.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application.Contracts\obj\Debug\netcoreapp3.1\BlogManagement.Application.Contracts.csprojAssemblyReference.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application.Contracts\obj\Debug\netcoreapp3.1\BlogManagement.Application.Contracts.AssemblyInfoInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application.Contracts\obj\Debug\netcoreapp3.1\BlogManagement.Application.Contracts.AssemblyInfo.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application.Contracts\obj\Debug\netcoreapp3.1\BlogManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application.Contracts\obj\Debug\netcoreapp3.1\BlogManagement.Application.Contracts.csproj.CopyComplete
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application.Contracts\obj\Debug\netcoreapp3.1\BlogManagement.Application.Contracts.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application.Contracts\obj\Debug\netcoreapp3.1\BlogManagement.Application.Contracts.pdb

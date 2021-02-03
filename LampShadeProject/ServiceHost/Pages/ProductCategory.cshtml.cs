@@ -5,6 +5,7 @@ namespace ServiceHost.Pages
 {
     public class ProductCategoryModel : PageModel
     {
+       
         public ProductCategoryQueryModel ProductCategory;
         private readonly IProductCategoryQuery _productCategoryQuery;
 
@@ -17,5 +18,10 @@ namespace ServiceHost.Pages
         {
             ProductCategory = _productCategoryQuery.GetProductCategoryWithProductsBy(id);
         }
+        //public void OnGet(string slug)
+        //{
+        //    Slug = slug;
+        //    ProductCategory = _productCategoryQuery.GetProductCategoryWithProductsBy(slug);
+        //}
     }
 }
