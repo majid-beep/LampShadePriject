@@ -28,8 +28,7 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
                 CategoryId=x.CategoryId,
                 Description=x.Description,
                 MetaDescription=x.MetaDescription,
-                Keywords=x.Keywords,
-                //Picture = x.Picture,
+                Keywords=x.Keywords,                
                 PictureAlt=x.PictureAlt,
                 PictureTitle=x.PictureTitle,
                 PublishDate=x.PublishDate.ToFarsi(),
@@ -47,14 +46,16 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
 
         public List<ArticleViewModel> Search(ArticleSearchModel searchModel)
         {
-            var query = _context.Articles.Select(x => new ArticleViewModel
+            var query = _context.Articles.Include(x => x.Category).Select(x => new ArticleViewModel
             {
                 Id=x.Id,
-                Category=x.Category.Name,
+                Title = x.Title,
+                CategoryId = x.CategoryId,
+                Category =x.Category.Name,
                 Picture=x.Picture,
                 PublishDate=x.PublishDate.ToFarsi(),
-                ShortDescription=x.ShortDescription,
-                Title=x.Title,                
+                ShortDescription=x.ShortDescription.Substring(0, Math.Min(x.ShortDescription.Length,50))+"..."
+                               
             });
             if (!string.IsNullOrWhiteSpace(searchModel.Title))
                 query = query.Where(x => x.Title.Contains(searchModel.Title));

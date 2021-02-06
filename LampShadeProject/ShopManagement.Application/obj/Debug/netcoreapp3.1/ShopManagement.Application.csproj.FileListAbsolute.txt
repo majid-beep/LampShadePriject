@@ -13,4 +13,3 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManage
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Application\obj\Debug\netcoreapp3.1\ShopManagement.Application.csproj.CopyComplete
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Application\obj\Debug\netcoreapp3.1\ShopManagement.Application.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Application\obj\Debug\netcoreapp3.1\ShopManagement.Application.pdb
-E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\ShopManagement.Application\obj\Debug\netcoreapp3.1\ShopManagement.Application.csprojAssemblyReference.cache

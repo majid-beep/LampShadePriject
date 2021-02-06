@@ -28,6 +28,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\Project\\MyFinalProject\\LampShadeProject\\BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\Project\\MyFinalProject\\LampShadeProject\\BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj"
+              },
               "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\Project\\MyFinalProject\\LampShadeProject\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
                 "projectPath": "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\Project\\MyFinalProject\\LampShadeProject\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
               },
@@ -346,6 +349,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\Project\\MyFinalProject\\LampShadeProject\\01_LampshadeQuery\\01_LampshadeQuery.csproj": {
+                "projectPath": "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\Project\\MyFinalProject\\LampShadeProject\\01_LampshadeQuery\\01_LampshadeQuery.csproj"
+              },
               "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\Project\\MyFinalProject\\LampShadeProject\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj": {
                 "projectPath": "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\Project\\MyFinalProject\\LampShadeProject\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj"
               },

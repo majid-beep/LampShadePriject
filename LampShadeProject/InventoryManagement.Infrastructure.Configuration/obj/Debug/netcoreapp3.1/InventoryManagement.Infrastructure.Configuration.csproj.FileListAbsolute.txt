@@ -1,3 +1,4 @@
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Infrastructure.Configuration\obj\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.deps.json
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.runtimeconfig.json
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.runtimeconfig.dev.json
@@ -25,5 +26,4 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryM
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Infrastructure.Configuration\obj\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.csproj.CoreCompileInputs.cache
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Infrastructure.Configuration\obj\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.csproj.CopyComplete
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Infrastructure.Configuration\obj\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.dll
-E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Infrastructure.Configuration\obj\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Infrastructure.Configuration\obj\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.genruntimeconfig.cache

@@ -30,7 +30,7 @@ namespace _0_Framework.Application
         {
             if (date == new DateTime()) return "";
             var pc = new PersianCalendar();
-            return $"{pc.GetYear(date)}/{pc.GetMonth(date):00}/{pc.GetDayOfMonth(date):00}";
+            return $"{pc.GetYear(date):0000}/{pc.GetMonth(date):00}/{pc.GetDayOfMonth(date):00}";
         }
         
         public static string ToDiscountFormat(this DateTime date)
@@ -108,7 +108,12 @@ namespace _0_Framework.Application
 
         public static string ToFileName(this DateTime date)
         {
-            return $"{date.Year:0000}-{date.Month:00}-{date.Day:00}-{date.Hour:00}-{date.Minute:00}-{date.Second:00}";
+            return $"{date.Year:0000}-{date.Month:00}-{date.Day:00}";
         }
+
+        //public static string ToFileName(this DateTime date)
+        //{
+        //    return $"{date.Year:0000}-{date.Month:00}-{date.Day:00}-{date.Hour:00}-{date.Minute:00}-{date.Second:00}";
+        //}
     }
 }

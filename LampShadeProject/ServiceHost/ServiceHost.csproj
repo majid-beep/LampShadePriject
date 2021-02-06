@@ -13,13 +13,9 @@
 	<PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
+	
 
-  <!--<ItemGroup>
-    <Content Remove="Areas\Adminstration\Index.cshtml" />
-    <Content Remove="Pages\Product.cshtml" />
-    <Content Remove="wwwroot\Theme\assets\fonts\IranianSans.svg" />
-    <Content Remove="wwwroot\Theme\assets\fonts\IranianSans.woff2" />
-  </ItemGroup>-->
+
 
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.1">
@@ -42,18 +38,13 @@
 	
 	
 
-  <!--<ItemGroup>
-    <UpToDateCheckInput Remove="Areas\Adminstration\Index.cshtml" />
-  </ItemGroup>-->
 
-  <!--<ItemGroup>
-    <_ContentIncludedByDefault Remove="Areas\Adminstration\Index.cshtml" />
-    <_ContentIncludedByDefault Remove="Pages\Product.cshtml" />
-  </ItemGroup>-->
 
   <ItemGroup>
     <None Include="Areas\Adminstration\Pages\Index.cshtml" />
+    <None Include="Pages\ArticleCategory.cshtml" />
     <None Include="Pages\Product.cshtml" />
+    <None Include="Pages\Shared\Components\LatestArticles\Default.cshtml" />
     <None Include="Pages\Shared\Components\LatestArrivals\Default.cshtml" />
     <None Include="Pages\Shared\Components\ProductCategoryWithProduct\Default.cshtml" />
     <None Include="Pages\Shared\Components\ProductCategory\Default.cshtml" />
@@ -227,10 +218,6 @@
     <ProjectReference Include="..\ShopManagement.Configuration\ShopManagement.Configuration.csproj" />
   </ItemGroup>
 
-	
-
-  <!--<ItemGroup>
-    <UpToDateCheckInput Remove="Pages\Product.cshtml" />
-  </ItemGroup>-->
+ 
 
 </Project>

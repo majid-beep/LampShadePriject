@@ -2,6 +2,9 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_Lampsha
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\01_LampshadeQuery.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\01_LampshadeQuery.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\0_FrameWork.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\BlogManagement.Application.Contracts.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\BlogManagement.Domain.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\BlogManagement.Infrastructure.EFCore.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\DiscountManagement.Application.Contract.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\DiscountManagement.Domain.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\DiscountManagement.Infrastructure.EFCore.dll
@@ -11,10 +14,13 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_Lampsha
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\ShopManagement.Domain.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\ShopManagement.Infrastructure.EFCore.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\BlogManagement.Infrastructure.EFCore.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\DiscountManagement.Infrastructure.EFCore.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.EFCore.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\ShopManagement.Infrastructure.EFCore.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\0_FrameWork.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\BlogManagement.Application.Contracts.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\BlogManagement.Domain.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\DiscountManagement.Application.Contract.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\DiscountManagement.Domain.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\01_LampshadeQuery\bin\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.pdb

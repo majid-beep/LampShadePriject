@@ -2,6 +2,7 @@
 using _0_FrameWork.Infrastructure;
 using BlogManagement.Application.Contracts.ArticleCategory;
 using BlogManagement.Domain.ArticleCategoryAgg;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,28 +14,39 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
     {
         private readonly BlogContext _context;
 
-        public ArticleCategoryRepository(BlogContext context):base(context)
+        public ArticleCategoryRepository(BlogContext context) : base(context)
         {
             _context = context;
+        }
+
+        public List<ArticleCategoryViewModel> GetArticleCategories()
+        {
+            return _context.ArticleCategories.Select(x => new ArticleCategoryViewModel
+            {
+                Id = x.Id,
+                Name = x.Name
+            }).ToList();
         }
 
         public EditArticleCategory GetDetails(long id)
         {
             return _context.ArticleCategories.Select(x => new EditArticleCategory
             {
-                Id=x.Id,
-                Name=x.Name,
-                CanonicalAddress=x.CanonicalAddress,
-                Description=x.Description,
-                Keywords=x.Keywords,
-                MetaDescription=x.MetaDescription,
-                ShowOrder=x.ShowOrder,
-                Slug=x.Slug,
-                PictureAlt=x.PictureAlt,
-                PictureTtile=x.PictureTitle
+                Id = x.Id,
+                Name = x.Name,
+                CanonicalAddress = x.CanonicalAddress,
+                Description = x.Description,
+                Keywords = x.Keywords,
+                MetaDescription = x.MetaDescription,
+                ShowOrder = x.ShowOrder,
+                Slug = x.Slug,
+                PictureAlt = x.PictureAlt,
+                PictureTtile = x.PictureTitle
+                
+                
 
 
-            }).FirstOrDefault(x => x.Id==id);
+            }).FirstOrDefault(x => x.Id == id);
         }
 
         public string GetSlugBy(long id)
@@ -44,15 +56,18 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
 
         public List<ArticleCategoryViewModel> Search(ArticleCategorySearchModel searchModel)
         {
-            var query = _context.ArticleCategories.Select(x => new ArticleCategoryViewModel
+            var query = _context.ArticleCategories
+                .Include(x=>x.Articles)
+                .Select(x => new ArticleCategoryViewModel
             {
                 Id = x.Id,
                 Name = x.Name,
                 Description = x.Description,
                 Picture = x.Picture,
                 ShowOrder = x.ShowOrder,
-                CreationDate=x.CreationDate.ToFarsi(),
-                
+                CreationDate = x.CreationDate.ToFarsi(),
+                ArticlesCount=x.Articles.Count 
+
             });
             if (!string.IsNullOrWhiteSpace(searchModel.Name))
                 query = query.Where(x => x.Name.Contains(searchModel.Name));

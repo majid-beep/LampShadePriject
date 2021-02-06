@@ -6,7 +6,7 @@ using System.Text;
 
 namespace BlogManagement.Domain.ArticleCategoryAgg
 {
-   public class ArticleCategory :EntityBase
+    public class ArticleCategory : EntityBase
     {
         public string Name { get; private set; }
         public string Picture { get; private set; }
@@ -16,13 +16,17 @@ namespace BlogManagement.Domain.ArticleCategoryAgg
         public long ShowOrder { get; private set; }
         public string Slug { get; private set; }
         public string Keywords { get; private set; }
-        public string MetaDescription{ get; private set; }
+        public string MetaDescription { get; private set; }
         public string CanonicalAddress { get; private set; }
         public List<Article> Articles { get; private set; }
-       
+        public ArticleCategory()
+        {
 
-        public ArticleCategory(string name, string picture, string pictureAlt, string pictureTitle, 
-            string description, long showOrder,string slug, string keywords, string metaDescription, 
+        }
+
+
+        public ArticleCategory(string name, string picture, string pictureAlt, string pictureTitle,
+            string description, long showOrder, string slug, string keywords, string metaDescription,
             string canonicalAddress)
         {
             Name = name;
@@ -40,8 +44,8 @@ namespace BlogManagement.Domain.ArticleCategoryAgg
             long showOrder, string slug, string keywords, string metaDescription, string canonicalAddress)
         {
             Name = name;
-            if(!string.IsNullOrWhiteSpace(picture))
-                   Picture = picture;
+            if (!string.IsNullOrWhiteSpace(picture))
+                Picture = picture;
             PictureAlt = pictureAlt;
             PictureTitle = pictureTitle;
             Description = description;
@@ -52,4 +56,5 @@ namespace BlogManagement.Domain.ArticleCategoryAgg
             CanonicalAddress = canonicalAddress;
         }
     }
+
 }

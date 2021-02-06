@@ -22,6 +22,11 @@ namespace BlogManagement.Domain.ArticleAgg
         public long CategoryId { get; private set; }
         public ArticleCategory Category { get; private set; }
 
+        public Article()
+        {
+
+        }
+
         public Article(string title, string shortDescription, string description, 
             string picture, string pictureAlt, string pictureTitle, DateTime publishDate, 
             string slug,string metaDescription, string keywords, string canonicalAddress,

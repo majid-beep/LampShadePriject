@@ -9,6 +9,7 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManage
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\BlogManagement.Domain.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\0_FrameWork.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\BlogManagement.Application.Contracts.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\BlogManagement.Infrastructure.EFCore.csprojAssemblyReference.cache
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\BlogManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\BlogManagement.Infrastructure.EFCore.AssemblyInfo.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\BlogManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
@@ -16,4 +17,3 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManage
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\BlogManagement.Infrastructure.EFCore.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\BlogManagement.Infrastructure.EFCore.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\BlogManagement.Infrastructure.EFCore.genruntimeconfig.cache
-E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\BlogManagement.Infrastructure.EFCore.csprojAssemblyReference.cache
