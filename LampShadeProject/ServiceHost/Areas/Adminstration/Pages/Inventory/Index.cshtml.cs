@@ -1,7 +1,9 @@
+using _0_FrameWork.Infrastructure;
 using DiscountManagement.Application.Contract.ColleagueDiscount;
 using DiscountManagement.Application.Contract.CustomerDiscount;
 using DiscountManagement.Domain.CustomerDiscountAgg;
 using InventoryManagement.Application.Contract.Inventory;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -13,6 +15,7 @@ using System.Collections.Generic;
 
 namespace ServiceHost.Areas.Adminstration.Pages.Inventory
 {
+    [Authorize(Roles=Roles.Administrator)]
     public class IndexModel : PageModel
     {
         [TempData]

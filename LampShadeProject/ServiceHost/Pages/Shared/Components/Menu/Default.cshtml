@@ -1,4 +1,5 @@
-﻿@model _01_LampshadeQuery.MenuModel   
+﻿@model _01_LampshadeQuery.MenuModel
+@inject _0_FrameWork.Application.IAuthHelper AuthHelper
 @{
 }
 
@@ -43,7 +44,13 @@
                                 <li>
                                     <a href="contact.html">تماس با ما</a>
                                 </li>
-                                @*@if (AuthHelper.IsAuthenticated())
+                                @*<li>
+                                    <a asp-page="/Account">وورد / ثبت نام</a>
+                                </li>*@
+
+
+
+                                @if (AuthHelper.IsAuthenticated())
                                 {
                                     <li>
                                         <a asp-page="/Account" asp-page-handler="Logout">خروج</a>
@@ -54,7 +61,11 @@
                                     <li>
                                         <a asp-page="/Account">وورد / ثبت نام</a>
                                     </li>
-                                }*@
+                                }
+
+
+
+
                             </ul>
                         </nav>
                     </div>

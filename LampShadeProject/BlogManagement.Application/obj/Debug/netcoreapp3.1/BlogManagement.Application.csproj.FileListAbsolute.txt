@@ -7,7 +7,6 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManage
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application\bin\Debug\netcoreapp3.1\BlogManagement.Application.Contracts.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application\bin\Debug\netcoreapp3.1\BlogManagement.Domain.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application\bin\Debug\netcoreapp3.1\0_FrameWork.pdb
-E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application\obj\Debug\netcoreapp3.1\BlogManagement.Application.csprojAssemblyReference.cache
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application\obj\Debug\netcoreapp3.1\BlogManagement.Application.AssemblyInfoInputs.cache
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application\obj\Debug\netcoreapp3.1\BlogManagement.Application.AssemblyInfo.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Application\obj\Debug\netcoreapp3.1\BlogManagement.Application.csproj.CoreCompileInputs.cache

@@ -9,10 +9,10 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\DiscountMa
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\DiscountManagement.Application\bin\Debug\netcoreapp3.1\DiscountManagement.Domain.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\DiscountManagement.Application\bin\Debug\netcoreapp3.1\0_FrameWork.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\DiscountManagement.Application\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.pdb
-E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\DiscountManagement.Application\obj\Debug\netcoreapp3.1\DiscountManagement.Application.csprojAssemblyReference.cache
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\DiscountManagement.Application\obj\Debug\netcoreapp3.1\DiscountManagement.Application.AssemblyInfoInputs.cache
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\DiscountManagement.Application\obj\Debug\netcoreapp3.1\DiscountManagement.Application.AssemblyInfo.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\DiscountManagement.Application\obj\Debug\netcoreapp3.1\DiscountManagement.Application.csproj.CoreCompileInputs.cache
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\DiscountManagement.Application\obj\Debug\netcoreapp3.1\DiscountManagement.Application.csproj.CopyComplete
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\DiscountManagement.Application\obj\Debug\netcoreapp3.1\DiscountManagement.Application.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\DiscountManagement.Application\obj\Debug\netcoreapp3.1\DiscountManagement.Application.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\DiscountManagement.Application\obj\Debug\netcoreapp3.1\DiscountManagement.Application.csprojAssemblyReference.cache

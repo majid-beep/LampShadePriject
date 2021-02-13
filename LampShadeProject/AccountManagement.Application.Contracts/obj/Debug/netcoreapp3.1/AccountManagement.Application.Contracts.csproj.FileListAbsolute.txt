@@ -1,0 +1,11 @@
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application.Contracts\bin\Debug\netcoreapp3.1\AccountManagement.Application.Contracts.deps.json
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application.Contracts\bin\Debug\netcoreapp3.1\AccountManagement.Application.Contracts.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application.Contracts\bin\Debug\netcoreapp3.1\AccountManagement.Application.Contracts.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application.Contracts\bin\Debug\netcoreapp3.1\0_FrameWork.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application.Contracts\bin\Debug\netcoreapp3.1\0_FrameWork.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\AccountManagement.Application.Contracts.AssemblyInfoInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\AccountManagement.Application.Contracts.AssemblyInfo.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\AccountManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\AccountManagement.Application.Contracts.csproj.CopyComplete
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\AccountManagement.Application.Contracts.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\AccountManagement.Application.Contracts.pdb

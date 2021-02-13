@@ -1,0 +1,16 @@
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application\bin\Debug\netcoreapp3.1\AccountManagement.Application.deps.json
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application\bin\Debug\netcoreapp3.1\AccountManagement.Application.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application\bin\Debug\netcoreapp3.1\AccountManagement.Application.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application\bin\Debug\netcoreapp3.1\0_FrameWork.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application\bin\Debug\netcoreapp3.1\AccountManagement.Application.Contracts.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application\bin\Debug\netcoreapp3.1\AccountManagement.Domain.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application\bin\Debug\netcoreapp3.1\0_FrameWork.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application\bin\Debug\netcoreapp3.1\AccountManagement.Application.Contracts.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application\bin\Debug\netcoreapp3.1\AccountManagement.Domain.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application\obj\Debug\netcoreapp3.1\AccountManagement.Application.csprojAssemblyReference.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application\obj\Debug\netcoreapp3.1\AccountManagement.Application.AssemblyInfoInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application\obj\Debug\netcoreapp3.1\AccountManagement.Application.AssemblyInfo.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application\obj\Debug\netcoreapp3.1\AccountManagement.Application.csproj.CoreCompileInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application\obj\Debug\netcoreapp3.1\AccountManagement.Application.csproj.CopyComplete
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application\obj\Debug\netcoreapp3.1\AccountManagement.Application.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\AccountManagement.Application\obj\Debug\netcoreapp3.1\AccountManagement.Application.pdb

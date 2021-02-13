@@ -7,6 +7,9 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManage
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\BlogManagement.Application.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\BlogManagement.Domain.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\BlogManagement.Infrastructure.EFCore.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\CommentManagement.Application.Contracts.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\CommentManagement.Domain.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\CommentManagement.Infrastructure.EFCore.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\DiscountManagement.Application.Contract.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\DiscountManagement.Domain.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\DiscountManagement.Infrastructure.EFCore.dll
@@ -22,6 +25,9 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManage
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\BlogManagement.Infrastructure.EFCore.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\0_FrameWork.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\BlogManagement.Domain.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\CommentManagement.Application.Contracts.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\CommentManagement.Domain.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\CommentManagement.Infrastructure.EFCore.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\DiscountManagement.Application.Contract.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\DiscountManagement.Domain.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\BlogManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\DiscountManagement.Infrastructure.EFCore.pdb

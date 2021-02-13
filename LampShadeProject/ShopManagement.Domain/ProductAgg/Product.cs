@@ -1,18 +1,14 @@
 ﻿using _0_FrameWork.Domain;
-using ShopManagement.Domain.CommentAgg;
 using ShopManagement.Domain.ProductCategoryAgg;
 using ShopManagement.Domain.ProductPictureAgg;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace ShopManagement.Domain.ProductAgg
 {
    public class Product:EntityBase 
     {
         public string Name { get; private set; }
-        public string Code { get; private set; }
-       
+        public string Code { get; private set; }       
         public string ShortDescription { get; private set; }
         public string Description { get; private set; }
         public string Picture { get; private set; }
@@ -24,7 +20,7 @@ namespace ShopManagement.Domain.ProductAgg
         public string MetaDescription { get; private set; }
         public ProductCategory Category { get; private set; }
         public List<ProductPicture> ProductPictures { get; private set; }
-        public List<Comment> Comments { get; set; }
+   
 
         protected Product()
         {

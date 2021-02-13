@@ -16,6 +16,11 @@
 	
 
 
+	
+
+	
+
+
 
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.1">
@@ -42,6 +47,8 @@
 
   <ItemGroup>
     <None Include="Areas\Adminstration\Pages\Index.cshtml" />
+    <None Include="Pages\AccessDenied.cshtml" />
+    <None Include="Pages\Account.cshtml" />
     <None Include="Pages\ArticleCategory.cshtml" />
     <None Include="Pages\Product.cshtml" />
     <None Include="Pages\Shared\Components\LatestArticles\Default.cshtml" />
@@ -212,11 +219,18 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AccountManagement.Infrastructure.Configuration\AccountManagement.Infrastructure.Configuration.csproj" />
     <ProjectReference Include="..\BlogManagement.Infrastructure.Configuration\BlogManagement.Infrastructure.Configuration.csproj" />
+    <ProjectReference Include="..\CommentManagement.Application.Contracts\CommentManagement.Application.Contracts.csproj" />
+    <ProjectReference Include="..\CommentManagement.Infrastructure.Configuration\CommentManagement.Infrastructure.Configuration.csproj" />
     <ProjectReference Include="..\DiscountManagement.Configuration\DiscountManagement.Configuration.csproj" />
     <ProjectReference Include="..\InventoryManagement.Infrastructure.Configuration\InventoryManagement.Infrastructure.Configuration.csproj" />
     <ProjectReference Include="..\ShopManagement.Configuration\ShopManagement.Configuration.csproj" />
   </ItemGroup>
+
+
+ 
+ 
 
  
 

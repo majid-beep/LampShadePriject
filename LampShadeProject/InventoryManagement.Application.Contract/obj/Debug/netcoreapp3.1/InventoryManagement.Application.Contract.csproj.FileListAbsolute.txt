@@ -5,6 +5,7 @@ E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryM
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Application.Contract\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.dll
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Application.Contract\bin\Debug\netcoreapp3.1\0_FrameWork.pdb
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Application.Contract\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Application.Contract\obj\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.csprojAssemblyReference.cache
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Application.Contract\obj\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.AssemblyInfoInputs.cache
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Application.Contract\obj\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.AssemblyInfo.cs
 E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\InventoryManagement.Application.Contract\obj\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.csproj.CoreCompileInputs.cache

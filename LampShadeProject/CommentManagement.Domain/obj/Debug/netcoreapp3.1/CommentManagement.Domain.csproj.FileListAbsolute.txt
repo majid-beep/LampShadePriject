@@ -1,0 +1,14 @@
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\CommentManagement.Domain\bin\Debug\netcoreapp3.1\CommentManagement.Domain.deps.json
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\CommentManagement.Domain\bin\Debug\netcoreapp3.1\CommentManagement.Domain.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\CommentManagement.Domain\bin\Debug\netcoreapp3.1\CommentManagement.Domain.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\CommentManagement.Domain\bin\Debug\netcoreapp3.1\0_FrameWork.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\CommentManagement.Domain\bin\Debug\netcoreapp3.1\CommentManagement.Application.Contracts.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\CommentManagement.Domain\bin\Debug\netcoreapp3.1\0_FrameWork.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\CommentManagement.Domain\bin\Debug\netcoreapp3.1\CommentManagement.Application.Contracts.pdb
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\CommentManagement.Domain\obj\Debug\netcoreapp3.1\CommentManagement.Domain.csprojAssemblyReference.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\CommentManagement.Domain\obj\Debug\netcoreapp3.1\CommentManagement.Domain.AssemblyInfoInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\CommentManagement.Domain\obj\Debug\netcoreapp3.1\CommentManagement.Domain.AssemblyInfo.cs
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\CommentManagement.Domain\obj\Debug\netcoreapp3.1\CommentManagement.Domain.csproj.CoreCompileInputs.cache
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\CommentManagement.Domain\obj\Debug\netcoreapp3.1\CommentManagement.Domain.csproj.CopyComplete
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\CommentManagement.Domain\obj\Debug\netcoreapp3.1\CommentManagement.Domain.dll
+E:\ONLINE-LEARNING\UNDONE\mvc\Project\MyFinalProject\LampShadeProject\CommentManagement.Domain\obj\Debug\netcoreapp3.1\CommentManagement.Domain.pdb
